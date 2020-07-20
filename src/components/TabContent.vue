@@ -17,7 +17,7 @@
         default: ''
       },
       /***
-      * Icon name for the upper circle corresponding to the tab
+      * Index to create a fixed tab order
       */
       index: {
         type: Number,
