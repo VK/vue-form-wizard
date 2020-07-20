@@ -17,6 +17,13 @@
         default: ''
       },
       /***
+      * Icon name for the upper circle corresponding to the tab
+      */
+      index: {
+        type: Number,
+        default: -1
+      },
+      /***
        * Icon name for the upper circle corresponding to the tab
        */
       icon: {
